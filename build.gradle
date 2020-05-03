@@ -106,7 +106,7 @@ subprojects {
           name = projectName
           packaging 'jar'
           description = projectDesc
-          url 'http://github.com/czyzby/gdx-lml'
+          url 'http://github.com/jarvisapi/gdx-lml'
 
           licenses {
             license {
@@ -116,9 +116,9 @@ subprojects {
           }
           
           scm {
-            connection 'scm:git:git@github.com:czyzby/gdx-lml.git'
-            developerConnection 'scm:git:git@github.com:czyzby/gdx-lml.git'
-            url 'http://github.com/czyzby/gdx-lml/'
+            connection 'scm:git:git@github.com:jarvisapi/gdx-lml.git'
+            developerConnection 'scm:git:git@github.com:jarvisapi/gdx-lml.git'
+            url 'http://github.com/jarvisapi/gdx-lml/'
           }
 
           developers {
